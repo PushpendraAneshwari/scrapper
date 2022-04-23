@@ -141,11 +141,11 @@ const Codef = () => {
         <h2>Codeforces User Data</h2>
       </header>
       <div className="user-container">
-        {/* <h5 className="info-item">Ranking : {userData3.result[0].rank}</h5>
+        <h5 className="info-item">Ranking : {userData3.result[0].rank}</h5>
         <h5 className="info-item">Contribution : {userData3.result[0].contribution}</h5>
         <h5 className="info-item">Rating : {userData3.result[0].rating}</h5>
         <h5 className="info-item">Organization : {userData3.result[0].organization}</h5>
-        <h5 className="info-item">MaxRank : {userData3.result[0].maxRank}</h5> */}
+        <h5 className="info-item">MaxRank : {userData3.result[0].maxRank}</h5>
 
       </div>
     </div>
